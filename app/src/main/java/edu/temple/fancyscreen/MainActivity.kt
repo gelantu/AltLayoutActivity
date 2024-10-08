@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
                     "Jorge Gomez"
                 )
             )
-            layoutManager = LinearLayoutManager(this@MainActivity)
+            //layoutManager = LinearLayoutManager(this@MainActivity)
         }
     }
 }
